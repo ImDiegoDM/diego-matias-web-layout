@@ -1,0 +1,48 @@
+.grid-icons li .iconIMG{
+  width: 6rem!important;
+  height: 6rem!important;
+  line-height: 6rem;
+  border-radius: 6rem;
+  box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
+  font-size: 2.5rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.grid-icons{
+  max-width: 700px;
+}
+
+.alignleft img{
+  left: -0.25rem;
+}
+
+.grid-icons li .iconIMG img{
+  position: relative;
+  top: 0.7rem;
+  height: 3rem;
+}
+
+.smallimg img{
+  top: 0.4rem!important;
+  height: 2.5rem!important;
+}
+
+.large img{
+  top: 0.9rem!important;
+  height: 3.5rem!important;
+}
+
+.myGridH{
+
+}
+.myGridH li{
+  height: 2rem!important;
+  list-style-type :none;
+}
+
+.myGridH img{
+  position: relative;
+  left: 0px;
+  top: 0.15rem;
+}
