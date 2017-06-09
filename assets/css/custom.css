@@ -9,6 +9,22 @@
   text-align: center;
 }
 
+.panel > .colorM1{
+  background: #0c4576;
+  background: -moz-linear-gradient(-45deg, #0c4576 0%, #0d6e77 39%, #0c4576 100%);
+  background: -webkit-linear-gradient(-45deg, #0c4576 0%,#0d6e77 39%,#0c4576 100%);
+  background: linear-gradient(135deg, #0c4576 0%,#0d6e77 39%,#0c4576 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0c4576', endColorstr='#0c4576',GradientType=1 );
+}
+
+.panel > .colorM2{
+  background: #da2c38;
+  background: -moz-linear-gradient(top, #da2c38 1%, #bf286e 89%);
+  background: -webkit-linear-gradient(top, #da2c38 1%,#bf286e 89%);
+  background: linear-gradient(to bottom, #da2c38 1%,#bf286e 89%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#da2c38', endColorstr='#bf286e',GradientType=0 );
+}
+
 .grid-icons{
   max-width: 700px;
 }
